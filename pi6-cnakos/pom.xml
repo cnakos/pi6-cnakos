@@ -57,5 +57,10 @@
 			<artifactId>uimafit-core</artifactId>
 			<version>2.1.0</version>
 		</dependency>
+		<dependency>
+			<groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-corenlp</artifactId>
+			<version>3.5.2</version>
+		</dependency>
 	</dependencies>
 </project>
